@@ -1,16 +1,15 @@
-## Hi there 👋
+### Opa. Boas vindas ao meu perfiozão 🖤🖤
 
-<!--
-**Jeni666/Jeni666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Jenifer Ramualda
 
-Here are some ideas to get you started:
+- Sou estudande na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para organizar e compartilhar meus projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Caso queira entrar em contato comigo 📧
+
+00001123239459SP@al.educacao.sp.gov.br
+
+@Jeniferramualda
+
+![](https://media1.tenor.com/m/CqxZj0I4rXsAAAAd/cirrus-cirrus-ghoulette.gif)
